@@ -1,4 +1,4 @@
-# Hi, I'm Azkafalah! 👋
+# Hi, I'm Azkafalah!
 
 I'm an **Informatics student at Tanjungpura University** with an interest in technology and programming.
 
@@ -12,11 +12,9 @@ Undergraduate Student in Informatics
 
 ##  Skills
 
-* HTML & CSS
 * PHP
 * MySQL
 * C++
-* Git & GitHub
 
 ##  Currently Learning
 
